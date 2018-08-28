@@ -4,4 +4,3 @@ setupRequired(python_future)
 
 envPrepend(PYTHONPATH, ${PRODUCT_DIR})
 envPrepend(PYTHONPATH, ${PRODUCT_DIR}/lib/python)
-envPrepend(PATH, ${PRODUCT_DIR}/bin)
